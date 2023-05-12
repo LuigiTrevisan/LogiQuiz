@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class SQLConnection {
 
     private String usuario = "root";
-    private String senha = "sardinha";
+    private String senha = "teste";
     private String host = "localhost";
     private String porta = "3306";
     private String bd = "db_logquiz";
